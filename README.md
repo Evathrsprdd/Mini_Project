@@ -32,7 +32,11 @@ The classification model is built using a convolutional neural network (CNN) arc
 - `gdown` for downloading datasets from Google Drive.
 - `zipfile` for handling zip files.
 
-## How to run your model
+## How to run your model?
+
+1. Download the notebook file Mini_Project_Deep_Learning.ipynb.
+2. Open the notebook in Google Colab.
+3. Run all cells to train and evaluate the CNN classification model for 70 dog breeds.
 
 ## Dataset References
 
@@ -40,6 +44,5 @@ We used [70 Dog Breeds-Image Data Set](https://www.kaggle.com/datasets/gpiosenka
 
 ## Paper Research References
 
-1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556)  
-
-3. [Dogs Breed Classification Using Deep Learning](https://ijcrt.org/papers/IJCRT2104679.pdf)  
+1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556)
+2. [Dogs Breed Classification Using Deep Learning](https://ijcrt.org/papers/IJCRT2104679.pdf)  
